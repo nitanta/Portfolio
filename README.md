@@ -1,6 +1,6 @@
 # Hi, welcome to my portfolio 👋 
 
-Apple platforms enthusiast
+Apple platforms engineer and tech enthusiast
 
 # Technologies
 
