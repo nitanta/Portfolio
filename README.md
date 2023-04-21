@@ -34,9 +34,11 @@ Tech enthusiast and a fast learner.
 
 ### 1112Delivery [🔗](https://apps.apple.com/th/app/1112-delivery/id1449233193)
 
+Domain: e-commerce
+
 <img src = "1112Delivery/1.webp" width ="200" /> <img src = "1112Delivery/2.webp" width ="200" /> <img src = "1112Delivery/3.webp" width ="200" /> <img src = "1112Delivery/4.webp" width ="200" />
 
-Domain: e-commerce
+
 
 ### Baxta pets [🔗](https://apps.apple.com/app/apple-store/id1462624482?mt=8)
 
