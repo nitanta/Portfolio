@@ -25,9 +25,10 @@ Tech enthusiast and a fast learner.
 ```
 
 # Interests
-● Basketball
-● Software engineering
-● Blogs
+
+* Basketball
+* Software engineering
+* Blogs
 
 # Apps
 
