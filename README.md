@@ -36,29 +36,54 @@ Tech enthusiast and a fast learner.
 
 <img src = "1112Delivery/1.webp" width ="200" /> <img src = "1112Delivery/2.webp" width ="200" /> <img src = "1112Delivery/3.webp" width ="200" /> <img src = "1112Delivery/4.webp" width ="200" />
 
+Domain: e-commerce
+
 ### Baxta pets [🔗](https://apps.apple.com/app/apple-store/id1462624482?mt=8)
 
 <img src = "BaxtaPets/1.webp" width ="200" /> <img src = "BaxtaPets/2.webp" width ="200" /> <img src = "BaxtaPets/3.webp" width ="200" /> <img src = "BaxtaPets/4.webp" width ="200" />
 
+Domain: Social media, Networking, Chat
+
+
+
 ### Gochat [🔗](https://apps.apple.com/au/app/gochat/id1476243358)
+
+Domain: Social media, Networking, Chat
 
 <img src = "GoChat/1.jpg" width ="200" /> <img src = "GoChat/2.jpg" width ="200" /> <img src = "GoChat/3.jpg" width ="200" /> <img src = "GoChat/4.jpg" width ="200" /> <img src = "GoChat/5.jpg" width ="200" /> <img src = "GoChat/6.jpg" width ="200" />
 
+
+
 ### Rever automative [🔗](https://apps.apple.com/us/app/rêver-automotive/id1634776354)
+
+Domain: EV vehicle
 
 <img src = "Rever/1.png" width ="200" /> <img src = "Rever/2.png" width ="200" /> <img src = "Rever/3.png" width ="200" /> <img src = "Rever/4.png" width ="200" /> <img src = "Rever/5.png" width ="200" /> 
 
+
+
 ### TammyFit [🔗](https://apps.apple.com/au/app/tammy-fit/id1333303155)
+
+Domain: Health and Fitness
 
 <img src = "TammyFit/1.webp" width ="200" /> <img src = "TammyFit/2.webp" width ="200" /> <img src = "TammyFit/3.webp" width ="200" /> <img src = "TammyFit/4.webp" width ="200" />
 
+
+
 ### UKO [🔗](https://apps.apple.com/us/app/uko/id1549060958)
+
+Domain: Co-living spaces, Hospitality
 
 <img src = "UKO/1.webp" width ="200" /> <img src = "UKO/2.webp" width ="200" /> <img src = "UKO/3.webp" width ="200" /> <img src = "UKO/4.webp" width ="200" />
 
+
+
 ### The Yayos [🔗](https://apps.apple.com/us/app/id1436153967)
 
+Domain: Vehicle booking
+
 <img src = "TheYayos/1.jpeg" width ="200" /> <img src = "TheYayos/2.jpeg" width ="200" /> <img src = "TheYayos/3.jpeg" width ="200" /> <img src = "TheYayos/4.jpeg" width ="200" /> <img src = "TheYayos/5.jpeg" width ="200" /> 
+
 
 
 ## Get in touch
