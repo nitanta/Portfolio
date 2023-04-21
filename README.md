@@ -42,9 +42,9 @@ Domain: e-commerce
 
 ### Baxta pets [🔗](https://apps.apple.com/app/apple-store/id1462624482?mt=8)
 
-<img src = "BaxtaPets/1.webp" width ="200" /> <img src = "BaxtaPets/2.webp" width ="200" /> <img src = "BaxtaPets/3.webp" width ="200" /> <img src = "BaxtaPets/4.webp" width ="200" />
-
 Domain: Social media, Networking, Chat
+
+<img src = "BaxtaPets/1.webp" width ="200" /> <img src = "BaxtaPets/2.webp" width ="200" /> <img src = "BaxtaPets/3.webp" width ="200" /> <img src = "BaxtaPets/4.webp" width ="200" />
 
 
 
