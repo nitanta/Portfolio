@@ -1,6 +1,6 @@
 # Hi, welcome to my portfolio 👋 
 
-Tech enthusiast and a fast learner.
+Apple platform enthusiast
 
 # Technologies
 
