@@ -2,10 +2,7 @@
 
 ### 1112Delivery [🔗](https://apps.apple.com/th/app/1112-delivery/id1449233193)
 
-![1](./1112Delivery/1.webp)
-![2](./1112Delivery/2.webp)
-![3](./1112Delivery/3.webp)
-![4](./1112Delivery/4.webp)
+| ![1](./1112Delivery/1.webp) | ![2](./1112Delivery/2.webp) | ![3](./1112Delivery/3.webp) | ![4](./1112Delivery/4.webp)
 
 ### Baxta pets [🔗](https://apps.apple.com/app/apple-store/id1462624482?mt=8)
 
@@ -57,6 +54,6 @@
 ## Get in touch
 
 #### Email 📧  - nitanta.adh007@gmail.com
-### LinkedIn Profile [🔗](https://www.linkedin.com/in/nitanta-adhikari/)
+#### LinkedIn Profile [🔗](https://www.linkedin.com/in/nitanta-adhikari/)
 #### Github [🔗](https://github.com/nitanta)
 #### Skype [🔗](live:nitanta.adh007)
