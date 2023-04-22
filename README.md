@@ -36,7 +36,7 @@ Apple platforms engineer and tech enthusiast
 
 Domain: e-commerce
 
-<img src = "1112Delivery/1.webp" width ="200" /> <img src = "1112Delivery/2.webp" width ="200" /> <img src = "1112Delivery/3.webp" width ="200" /> <img src = "1112Delivery/4.webp" width ="200" />
+<img src = "Assets/1112Delivery/1.webp" width ="200" /> <img src = "Assets/1112Delivery/2.webp" width ="200" /> <img src = "Assets/1112Delivery/3.webp" width ="200" /> <img src = "Assets/1112Delivery/4.webp" width ="200" />
 
 
 
@@ -44,7 +44,7 @@ Domain: e-commerce
 
 Domain: Social media, Networking, Chat
 
-<img src = "BaxtaPets/1.webp" width ="200" /> <img src = "BaxtaPets/2.webp" width ="200" /> <img src = "BaxtaPets/3.webp" width ="200" /> <img src = "BaxtaPets/4.webp" width ="200" />
+<img src = "Assets/BaxtaPets/1.webp" width ="200" /> <img src = "Assets/BaxtaPets/2.webp" width ="200" /> <img src = "Assets/BaxtaPets/3.webp" width ="200" /> <img src = "Assets/BaxtaPets/4.webp" width ="200" />
 
 
 
@@ -52,7 +52,7 @@ Domain: Social media, Networking, Chat
 
 Domain: Social media, Networking, Chat
 
-<img src = "GoChat/1.jpg" width ="200" /> <img src = "GoChat/2.jpg" width ="200" /> <img src = "GoChat/3.jpg" width ="200" /> <img src = "GoChat/4.jpg" width ="200" /> <img src = "GoChat/5.jpg" width ="200" /> <img src = "GoChat/6.jpg" width ="200" />
+<img src = "Assets/GoChat/1.jpg" width ="200" /> <img src = "Assets/GoChat/2.jpg" width ="200" /> <img src = "Assets/GoChat/3.jpg" width ="200" /> <img src = "Assets/GoChat/4.jpg" width ="200" /> <img src = "Assets/GoChat/5.jpg" width ="200" /> <img src = "Assets/GoChat/6.jpg" width ="200" />
 
 
 
@@ -60,7 +60,7 @@ Domain: Social media, Networking, Chat
 
 Domain: EV vehicle
 
-<img src = "Rever/1.png" width ="200" /> <img src = "Rever/2.png" width ="200" /> <img src = "Rever/3.png" width ="200" /> <img src = "Rever/4.png" width ="200" /> <img src = "Rever/5.png" width ="200" /> 
+<img src = "Assets/Rever/1.png" width ="200" /> <img src = "Assets/Rever/2.png" width ="200" /> <img src = "Assets/Rever/3.png" width ="200" /> <img src = "Assets/Rever/4.png" width ="200" /> <img src = "Assets/Rever/5.png" width ="200" /> 
 
 
 
@@ -68,7 +68,7 @@ Domain: EV vehicle
 
 Domain: Health and Fitness
 
-<img src = "TammyFit/1.webp" width ="200" /> <img src = "TammyFit/2.webp" width ="200" /> <img src = "TammyFit/3.webp" width ="200" /> <img src = "TammyFit/4.webp" width ="200" />
+<img src = "Assets/TammyFit/1.webp" width ="200" /> <img src = "Assets/TammyFit/2.webp" width ="200" /> <img src = "Assets/TammyFit/3.webp" width ="200" /> <img src = "Assets/TammyFit/4.webp" width ="200" />
 
 
 
@@ -76,7 +76,7 @@ Domain: Health and Fitness
 
 Domain: Co-living spaces, Hospitality
 
-<img src = "UKO/1.webp" width ="200" /> <img src = "UKO/2.webp" width ="200" /> <img src = "UKO/3.webp" width ="200" /> <img src = "UKO/4.webp" width ="200" />
+<img src = "Assets/UKO/1.webp" width ="200" /> <img src = "Assets/UKO/2.webp" width ="200" /> <img src = "Assets/UKO/3.webp" width ="200" /> <img src = "Assets/UKO/4.webp" width ="200" />
 
 
 
@@ -84,7 +84,7 @@ Domain: Co-living spaces, Hospitality
 
 Domain: Vehicle booking
 
-<img src = "TheYayos/1.jpeg" width ="200" /> <img src = "TheYayos/2.jpeg" width ="200" /> <img src = "TheYayos/3.jpeg" width ="200" /> <img src = "TheYayos/4.jpeg" width ="200" /> <img src = "TheYayos/5.jpeg" width ="200" /> 
+<img src = "Assets/TheYayos/1.jpeg" width ="200" /> <img src = "Assets/TheYayos/2.jpeg" width ="200" /> <img src = "Assets/TheYayos/3.jpeg" width ="200" /> <img src = "Assets/TheYayos/4.jpeg" width ="200" /> <img src = "Assets/TheYayos/5.jpeg" width ="200" /> 
 
 
 
