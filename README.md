@@ -73,6 +73,22 @@ Domain: Vehicle booking
 
 
 
+# 1112Delivery [🔗](https://apps.apple.com/th/app/1112-delivery/id1449233193)
+
+ Domain: e-commerce
+
+ <img src = "Assets/1112Delivery/1.webp" width ="200" /> <img src = "Assets/1112Delivery/2.webp" width ="200" /> <img src = "Assets/1112Delivery/3.webp" width ="200" /> <img src = "Assets/1112Delivery/4.webp" width ="200" />
+
+
+
+ # Rever automative [🔗](https://apps.apple.com/us/app/rêver-automotive/id1634776354)
+
+ Domain: EV vehicle
+
+ <img src = "Assets/Rever/1.png" width ="200" /> <img src = "Assets/Rever/2.png" width ="200" /> <img src = "Assets/Rever/3.png" width ="200" /> <img src = "Assets/Rever/4.png" width ="200" /> <img src = "Assets/Rever/5.png" width ="200" /> 
+
+
+
 ## Get in touch
 
 #### Email 📧  - nitanta.adh007@gmail.com
